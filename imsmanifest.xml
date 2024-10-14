@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<manifest identifier="qP0piCtV5474rH0chjKimijMDY4HErNCj2Uftt8T" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>SANDBOX John Le EXAMPLE</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>SANDBOX John Le EXAMPLE</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/OpenSans-Light.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Regular.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Bold.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/assets/NcWXCuACnXckU0Dx_small.png" />
+<file href="scormcontent/assets/v6wdUwDNzRuNCrjB_V4ipg4vB_OIGg0hI-the-20-future-20-of-20-marketing.pdf" />
+<file href="scormcontent/assets/KdqzNckmBxgKw0X4_Rb6SUcklXMQjizkj-food-20-safety-20-social-20-marketing-20-campaign.pdf" />
+<file href="scormcontent/assets/ak47dcheFlEOE7iZ_z75anQYp9voIy3Vd-social-20-networking-20-in-20-the-20-fortune-20500.pdf" />
+<file href="scormcontent/assets/ePmFq969VqmL0wNH_DLP_MDdvpduW1Zeo-traditional-20-vs-20-internet-20-marketing.pptx" />
+<file href="scormcontent/assets/MrRZCuWo7NhDa023_3edrdqR-wgtLMKhy-a-20-review-20-of-20-literature-20-on-20-consumers-e-2-80-99.pdf" />
+<file href="scormcontent/assets/95_-n5NcLv33Vpe7_6rAnJoS1JEeK0O4--thoughts-20-on-20-roe-catherine.pdf" />
+<file href="scormcontent/assets/xHxxABioG2J_7aT5_PEhPQqsaR40kPH24-thoughts-20-on-20-akar-nassir.pdf" />
+<file href="scormcontent/assets/uXLdlafPdCYjjSmE_hotel.jpg" />
+<file href="scormcontent/assets/KnD638jFS7YJQAu8_NykxKrGoxqKVR6yt-good-20-social-20-media-20-strategy-20-drives-20-good-20-results.pdf" />
+<file href="scormcontent/assets/6n0p-qOftXIW_zPh_yg9hZnCYY5rsW4ox-6-20-steps-20-to-20-creating-20-a-20-comprehensive-20-social-20-media-20-strategy.pdf" />
+<file href="scormcontent/assets/xfOmmlhCnAJ0fp57_hGI8CFCT9_1poJzT-social-20-media-20-refresh.pdf" />
+<file href="scormcontent/assets/VUZEoWRKwmwyzpp3_15k9REFWBeJyqz6d-find-20-the-20-needle-20-in-20-your-20-social-20-media-20-haystack.pdf" />
+<file href="scormcontent/assets/nONvncslSZBBhqmF_OqY01CKOLspgy3ti-social-20-media.pptx" />
+<file href="scormcontent/assets/EyMmm_PmFt3H3Nd2_qNFfC_DVVScFiUiy.jpg" />
+<file href="scormcontent/assets/eZyt5F7Q1eRr2iG6_350_full.png" />
+<file href="scormcontent/assets/OYKdIJo8HkifEWgS_321_full.png" />
+<file href="scormcontent/assets/1cTmPnuP18Kd53SN_332_full.png" />
+<file href="scormcontent/assets/muldLfpDdpk-aH7r_335_full.png" />
+<file href="scormcontent/assets/jafPSysIw4B68en7_326_full.png" />
+<file href="scormcontent/assets/wzrtnT3vj-qOJZdy_328_full.png" />
+<file href="scormcontent/assets/8vV2sIF7dEiWnS1N_343_full.png" />
+<file href="scormcontent/assets/jJb7-Iz-S_H2dJPE_337_full.png" />
+<file href="scormcontent/assets/hSVNdFzyty44PBnY_346_full.png" />
+<file href="scormcontent/assets/0pPyxO8y7XlZ0ytT_323_full.png" />
+<file href="scormcontent/assets/Kqaj-HktbEDCGKPI_325_full.png" />
+<file href="scormcontent/assets/OYMvzpC9AGRQsRCy_340_full.png" />
+
+    </resource>
+  </resources>
+</manifest>
